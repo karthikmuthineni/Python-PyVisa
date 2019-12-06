@@ -4,7 +4,7 @@ Reading data from Data Acquistion Unit (Model: Keysight 34972A/DAQ970A) using Py
 Install PyVisa on Raspberry Pi
 pip install PyVISA
 
-Give USB permission after connecting Raspberry Pi to DAQ using USB-Cable
+Give USB permission after connecting Raspberry Pi to DAQ using USB-Cable.
 
 Identify the vendorID and productID of your USB device with
 lsusb -vvv
